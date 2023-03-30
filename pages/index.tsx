@@ -54,7 +54,7 @@ export default function Home() {
               <h2 className=' text-teal-600 py-2 text-5xl font-medium md:text-6xl'>Saidahmad</h2>
               <h3 className='text-2xl py-2 md:text-3xl dark:text-white'>Front-End Developer and Designer</h3>
               <p className='text-md py-5 text-gray-800 leading-8 md:text-xl max-w-xl mx-auto dark:text-white'>Freelancer providing services for programming and design content needs.
-                Join me down below and let's get cracking!
+                Join me down below and let`&apos;`s get cracking!
               </p>
             </div>
             <div className='text-5xl flex justify-center gap-16 text-gray-700 py-3 transition-transform dark:text-teal-600'>
